@@ -1,0 +1,38 @@
+#hi{
+    text-align: center;
+    border: 0cqw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornflowerblue;
+    padding: auto;
+}
+
+.button-container{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+#decrease{
+    cursor: pointer;
+}
+
+#reset{
+    cursor: pointer;
+}
+
+#increase{
+    cursor: pointer;
+}
+
+#devalue{
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
